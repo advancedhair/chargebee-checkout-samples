@@ -13,8 +13,8 @@ export default {
   },
   created() {
     window.Chargebee.init({
-      site: "honeycomics-v3-test",
-      publishableKey: "test_qoH22RugUvm5IcxoqUD5Svdcu9mX5figf"
+      site: "mens-test",
+      publishableKey: "test_G8QpxfxkAfYxRpMgdzncd3bKGsB0VvEIj"
     })
   }
 }
